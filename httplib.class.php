@@ -189,7 +189,7 @@ class httplib{
 	}
 	
 	/**
-	 * 获取相应的信息
+	 * 获取连接资源的信息（返回数组）
 	 */
 	public function get_info(){
 		return $this->response_info;
