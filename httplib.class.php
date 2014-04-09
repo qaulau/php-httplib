@@ -3,7 +3,7 @@
  * 封装基于CURL的HTTP类库
  *
  * @file    class_httplib.php
- * @author	liushiquan<qaulau@hotmail.com>
+ * @author	qaulau@hotmail.com
  * @date    2013-8-1
  */
 
