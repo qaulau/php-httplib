@@ -1,6 +1,6 @@
 <?php
 /**
- * 封装基于CURL的HTTP类库
+ * 封装基于curl的HTTP类库
  *
  * @file    class_httplib.php
  * @author	qaulau@hotmail.com
